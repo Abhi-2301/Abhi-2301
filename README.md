@@ -1,7 +1,5 @@
 # 👋 Hi, I am Abhijeet Shinde! Great to see you here!
 
-![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 ---
 
 ### 🧠 About Me  
